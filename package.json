@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.2",
     "css-loader": "^6.7.3",
     "postcss": "^8.4.21",
     "postcss-loader": "^7.1.0",
